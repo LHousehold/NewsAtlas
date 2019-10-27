@@ -1,0 +1,124 @@
+[ 
+    { 
+      "elementType": "geometry", 
+      "stylers": [ 
+        { 
+          "saturation": -100 
+        }, 
+        { 
+          "lightness": 45 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "administrative.country", 
+      "elementType": "geometry.stroke", 
+      "stylers": [ 
+        { 
+          "color": "#464646" 
+        }, 
+        { 
+          "visibility": "on" 
+        }, 
+        { 
+          "weight": 0.6 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "administrative.land_parcel", 
+      "stylers": [ 
+        { 
+          "visibility": "off" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "administrative.locality", 
+      "stylers": [ 
+        { 
+          "visibility": "off" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "administrative.neighborhood", 
+      "stylers": [ 
+        { 
+          "visibility": "off" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "landscape.man_made", 
+      "stylers": [ 
+        { 
+          "visibility": "off" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "landscape.man_made", 
+      "elementType": "labels", 
+      "stylers": [ 
+        { 
+          "visibility": "off" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "landscape.natural", 
+      "stylers": [ 
+        { 
+          "visibility": "simplified" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "poi", 
+      "stylers": [ 
+        { 
+          "visibility": "off" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "road", 
+      "stylers": [ 
+        { 
+          "visibility": "simplified" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "road", 
+      "elementType": "labels", 
+      "stylers": [ 
+        { 
+          "visibility": "off" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "transit", 
+      "stylers": [ 
+        { 
+          "visibility": "off" 
+        } 
+      ] 
+    }, 
+    { 
+      "featureType": "water", 
+      "stylers": [ 
+        { 
+          "color": "#84b4e4" 
+        }, 
+        { 
+          "saturation": -25 
+        }, 
+        { 
+          "visibility": "simplified" 
+        } 
+      ] 
+    } 
+  ] 
