@@ -41,7 +41,7 @@ def build_q(keyword):
 def get_by_keyword(keyword):
     source_list = ','.join(sources)
     q = build_q(keyword)
-    html_url = ('http://newsapi.org/v2/everything?apiKey=50bd81d64339474fb7948cbcfa29399e&sources=' +
+    html_url = ('http://newsapi.org/v2/everything?apiKey=&sources=' +
         source_list + '&q=' + q + '&pageSize=5&sortBy=relevancy&language=en')
     response = requests.get(
         html_url
